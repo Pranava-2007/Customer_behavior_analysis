@@ -1,5 +1,5 @@
 # Customer_behavior_analysis
-Data analytics project showcasing customer behavior analysis using python power Bi, SQl
+Data analytics project showcasing customer behavior analysis using Python, Power BI, SQL
 
 **Overview**
 This project focuses on analyzing customer shopping behavior using Python, SQL, and Power BI to generate meaningful business insights. The workflow includes data loading, data cleaning, exploratory data analysis (EDA), SQL-based analysis in PostgreSQL, dashboard creation in Power BI, report preparation in Overleaf using LaTeX, and presentation creation using Gamma.
@@ -62,8 +62,8 @@ Created visual insights for business decision-making
 6. Report & Presentation
 Prepared a detailed analytical report in Overleaf using LaTeX
 Created a presentation using Gamma
-Dashboard Features
 
+**Dashboard Features**
 The Power BI dashboard includes:
 
 Sales overview
@@ -72,15 +72,16 @@ Product category analysis
 Purchase trend analysis
 Online vs offline shopping comparison
 Interactive filters and visualizations
-Results & Insights
 
+**Results & Insights**
 Some key insights obtained from the analysis:
 
 Certain customer groups contribute more to overall revenue
 Shopping behavior varies across demographics
 Some product categories consistently perform better
 Online purchases show strong customer engagement trends
-How to Run the Project
+
+**How to Run the Project**
 Clone the Repository
 git clone https://github.com/Pranava-2007/Customer_behavior_analysis.git
 Open Jupyter Notebook
@@ -101,11 +102,10 @@ customer_behavior_dashboard.pbix
 
 using Power BI Desktop.
 
-Project Files
-File	Description
-customer_shopping_behavior.csv	Dataset
-Customer_Shopping_Behavior_Analysis.ipynb	Python analysis notebook
-customer_behavior_sql_queries.sql	SQL queries
-customer_behavior_dashboard.pbix	Power BI dashboard
+**Project Files**
+customer_shopping_behavior.csv.xlsx -	Dataset
+Customer_Shopping_Behavior_Analysis.ipynb -	Python analysis notebook
+customer_behavior_sql_queries.sql -	SQL queries
+customer_behavior_dashboard.pbix -	Power BI dashboard
 LaTeX Report	Analytical report created in Overleaf
-Gamma Presentation	Project presentation
+Gamma Presentation-Project presentation
