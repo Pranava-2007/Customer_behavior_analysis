@@ -84,3 +84,16 @@ SUM(purchase_amount) as total_revenue
 from customer
 group by age_group
 order by total_revenue desc;
+
+-- Is there a link between subscription status and discount usage?
+select subscription_status, discount_applied, COUNT(*) as customer_count
+from customer
+group by subscription_status, discount_applied
+order by subscription_status;
+
+-- Who are the top 10 highest-spending customers within the Clothing category?
+select customer_id, category, purchase_amount,
+RANK() OVER (PARTITION BY category ORDER BY purchase_amount DESC) as spend_rank
+from customer
+where category = 'Clothing'
+limit 10;
