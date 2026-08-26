@@ -59,9 +59,8 @@ Used filtering, grouping, aggregation, and analytical queries
 Built an interactive Power BI dashboard
 Added KPIs, charts, slicers, and filters
 Created visual insights for business decision-making
-6. Report & Presentation
+6. Report
 Prepared a detailed analytical report in Overleaf using LaTeX
-Created a presentation using Gamma
 
 **Dashboard Features**
 The Power BI dashboard includes:
