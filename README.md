@@ -108,4 +108,3 @@ Customer_Shopping_Behavior_Analysis.ipynb -	Python analysis notebook
 customer_behavior_sql_queries.sql -	SQL queries
 customer_behavior_dashboard.pbix -	Power BI dashboard
 LaTeX Report	Analytical report created in Overleaf
-Gamma Presentation-Project presentation
